@@ -1,0 +1,5 @@
+streamlit
+transformers
+torch
+music21
+midi2audio
